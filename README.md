@@ -1,16 +1,13 @@
-## Hi there 👋
+# RS Chair Sofa Repair Delhi 🛋️💺
 
-<!--
-**rschairsofarepair-del/rschairsofarepair-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the technical repository for **RS Chair Sofa Repair**. We focus on high-performance web standards (100/100 SEO Score) to provide premium furniture restoration.
 
-Here are some ideas to get you started:
+### 📍 Specialization: Delhi Service Center
+We provide expert doorstep services for all types of furniture. For technical details and service booking in Delhi, visit our official pages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[Sofa & Office Chair Repair in Delhi](https://www.rschairsofarepair.in/delhi.html#chair)** - Expert hydraulic, base, and upholstery restoration.
+
+### 🚀 Technical Highlights
+- **Performance Score:** 100/100 (Google PageSpeed Insights)
+- **Experience:** 15+ Years in Delhi
+- **Service Areas:** South, West, North, and East Delhi.
